@@ -1,0 +1,93 @@
+/* COLOR
+CHỨ: #FAF3DD
+NAV BAR  #68B0AB
+NỀN #8FC0A9
+TIÊU ĐỀ #C8D5B9*/
+ *
+ {
+     color: black;
+ }
+ .s-logo 
+ {
+     font-size: 30px;
+    margin: 40px 0 50px 30px;
+    position: absolute;
+ }
+
+#head .header li
+{
+    display: inline;
+    float: right;
+    margin: 40px;
+    position: relative;
+    
+}
+
+.logo
+{
+    margin-left: 45%;
+}
+.header textarea
+{
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 30px;
+}
+a{
+    text-decoration: none;
+}
+li
+{
+    list-style: none;
+}
+.navbar
+{
+    text-align: center;
+    margin-top: 20px;
+}
+.navbar li
+{
+    display: inline-block;
+    margin: 10px 50px;
+    font-size: 20px;
+    color: f4f4f2;
+}
+
+i
+{
+    margin-right: 10px;
+}
+
+.barner img
+{
+    margin-top: 50px;
+    width: 99.9%;
+}
+
+/* detail */
+
+#detail{
+    text-align: center;
+    background-color: rgba(241, 236, 236, 0.973);
+    padding-top: 20px;
+    margin-bottom: 50px;
+}
+#detail h2
+{
+    font-size: 40px;
+}
+.detail__SP
+{
+    margin-bottom: 20px;
+}
+.detail__SP img
+{
+    width: 20%;
+    margin-right: 20px;
+}
+
+.detail__LT.xt
+{
+    text-align: right;
+    margin: 20px 0;
+}
