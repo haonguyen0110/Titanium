@@ -1,16 +1,14 @@
-/* COLOR
-CHỨ: #FAF3DD
-NAV BAR  #68B0AB
-NỀN #8FC0A9
-TIÊU ĐỀ #C8D5B9*/
- *
+*
  {
      color: black;
+     background-color: #fff;
+     text-align: center;
  }
  .s-logo 
  {
      font-size: 30px;
-    margin: 40px 0 50px 30px;
+ margin-top: 3% ;
+margin-left: -20%;
     position: absolute;
  }
 
@@ -25,7 +23,8 @@ TIÊU ĐỀ #C8D5B9*/
 
 .logo
 {
-    margin-left: 45%;
+    margin-left: 20%;
+    
 }
 .header textarea
 {
@@ -68,7 +67,7 @@ i
 
 #detail{
     text-align: center;
-    background-color: rgba(241, 236, 236, 0.973);
+    background-color: #ffff;
     padding-top: 20px;
     margin-bottom: 50px;
 }
@@ -86,8 +85,21 @@ i
     margin-right: 20px;
 }
 
-.detail__LT.xt
+.detail__TL.xt
 {
     text-align: right;
     margin: 20px 0;
+}
+
+.btn
+{
+    margin-top: 5%;
+    padding: 10px 25px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+.btn:hover
+{
+    background-color: yellow;
+    color: red;
 }
