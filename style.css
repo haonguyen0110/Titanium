@@ -84,6 +84,11 @@ i
     width: 20%;
     margin-right: 20px;
 }
+.detail__SP img:hover
+{
+    border: 1px solid gray;
+    width: 22%;
+}
 
 .detail__TL.xt
 {
